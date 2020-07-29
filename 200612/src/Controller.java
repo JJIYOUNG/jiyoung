@@ -8,6 +8,9 @@ public class Controller {
 		list.add(vo);
 	}
 	
+	private void syso() {
+
+	}
 	
 	//2. 개별확인
 	public static MemberVO select(String name) {
