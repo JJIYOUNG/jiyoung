@@ -9,7 +9,8 @@ public class Controller {
 	}
 	
 	private void syso() {
-
+		syso();
+	
 	}
 	
 	//2. 개별확인
